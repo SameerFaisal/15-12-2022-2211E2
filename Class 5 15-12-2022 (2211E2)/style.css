@@ -1,0 +1,100 @@
+/* p:hover
+{
+    background-color: crimson;
+    color: white;
+}
+a:hover
+{
+    color: pink;
+}
+p:before
+{
+    background-color: blue;
+} */
+
+/* p{
+    text-decoration: underline wavy blue 3px;
+
+} */
+
+h1{
+    word-spacing: 40px;
+}
+
+/* #my::first-letter
+{
+    color: crimson;
+    background-color: darkgray;
+    
+} */
+/* #my{
+    display: inline;
+} */
+/* #my::first-letter{
+    font-size: 100px;
+}
+#is{
+    color: white;
+    background-color: black;
+} */
+
+/* img{
+    margin:0px 25px 0px 25px ; /*top right bottom left*/
+
+    /* p{
+        color: crimson;
+    }
+
+    
+    p{
+        color: purple;
+    } */
+
+   /* #item li{
+        background-color: black;
+        color: white;
+    } */
+
+    /* div{
+        height: 100px;
+        width: 300px;
+        background-color: black;
+        border: 2px solid green;
+        border-radius: 20000px;
+    } */
+
+    #nav{
+        position: absolute;
+      width: 100%;
+        background-color: violet;
+        
+    }
+    #logo{
+        display: inline-block;
+        float: left;
+    }
+    li{
+        display: inline-block;
+        margin: 2px;
+        margin-left: 20px;
+        border: 1px solid green;
+        text-align: right;
+        margin-top: 30px;
+        float: right;
+        
+        
+
+    }
+    ul{
+        margin-right: 70px;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        
+    }
+img{
+    height: 100px;
+    width: 100px;
+    
+}
